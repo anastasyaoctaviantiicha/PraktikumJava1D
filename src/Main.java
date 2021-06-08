@@ -10,5 +10,8 @@ public class Main {
             boolean lulus = true;
 
             System.out.println("namaDepan + namaBelakang : ");
+            char[] uniskaChar = {'u','N','I','S','K','A'};
+            String uniskaString = new String(uniskaChar);
+            System.out.println(uniskaString);
     }
 }
