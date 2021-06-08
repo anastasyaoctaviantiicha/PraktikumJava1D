@@ -9,7 +9,7 @@ public class Main {
             char nilaiAbjad ='A';
             boolean lulus = true;
 
-            System.out.println("namaDepan + namaBelakang : ");
+            System.out.println(namaDepan + namaBelakang);
             char[] uniskaChar = {'U','N','I','S','K','A'};
             String uniskaString = new String(uniskaChar);
             System.out.println(uniskaString);
